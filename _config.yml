@@ -128,7 +128,7 @@ keywords: "large language models, natural language processing, machine learning,
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#EAEAEA"
-navbar-col: "#CD5C5C"
+navbar-col: "#A45A52"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
