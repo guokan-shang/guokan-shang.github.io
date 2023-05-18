@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Publications
-subtitle: ...
+subtitle: You can also browse my [Google Scholar](https://scholar.google.com/citations?user=EcBibPkAAAAJ){:target="_blank"} profile.
 ---
-
-You can also browse my [Google Scholar](https://scholar.google.com/citations?user=EcBibPkAAAAJ){:target="_blank"} profile.
-<br />
 
 **2022**
 
