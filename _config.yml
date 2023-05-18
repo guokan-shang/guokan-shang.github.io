@@ -22,6 +22,7 @@ author: Guokan Shang
 navbar-links:
   About Me | CV: "aboutme"
   Publications: "publications"
+  Talks: "talks"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -80,7 +81,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Blog of Guokan Shang
+rss-description: Guokan Shang Blog
 
 ###########################
 # --- General options --- #
@@ -95,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "guokan-shang.github.io"
+# url-pretty: "guokan-shang.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -118,7 +119,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "large language models, natural language processing, machine learning, artificial intelligence"
 
 ######################################
 # --- Colours / background image --- #
