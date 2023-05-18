@@ -20,7 +20,7 @@ author: Guokan Shang
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me | CV: "aboutme"
   Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
