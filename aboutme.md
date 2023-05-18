@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Guokan Shang (尚国侃).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a research scientist at LINAGORA, a French leader in open-source software ecosystem. Within the [Labs team](https://labs.linagora.com), we are building AI-powered collaborative platforms with the aim of facilitating communication and personal interaction in a corporate environment.
 
-What else do you need?
+My research interests span all aspects of machine learning and its applications to natural language processing, more specifically Spoken Language Understanding / NLP for conversations / Conversational AI / Dialogue and Interactive Systems. My recent work mainly focused on challenging tasks such as abstractive meeting summarization and NLG evaluation.
 
-### My story
+I received my Ph.D. in 2021 from Ecole Polytechnique and obtained a Master's degree in 2016 from Paris-Saclay University, both in Machine Learning. Before that, I obtained an Engineer's degree in 2015 from University of Technology of Troyes and a Bachelor's degree in 2013 from Harbin Institute of Technology, both in Computer Science.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am always looking for professionals with mutual interests to learn and share experiences, so feel free to contact me! look at the footer of this website for your preferred method.
