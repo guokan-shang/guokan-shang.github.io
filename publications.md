@@ -11,7 +11,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=EcBibP
 - **Abstractive Meeting Summarization: A Survey**  
   Virgile Rennard, **Guokan Shang**, Julie Hunter, Michalis Vazirgiannis  
   *TACL Journal*  
-  [arXiv](https://arxiv.org/abs/2208.04163){: .btn}
+  [arXiv](https://arxiv.org/abs/2208.04163)
   [Code1](https://github.com/guokan-shang/ami-and-icsi-corpora){: .btn} 
   [Code2](https://github.com/guokan-shang/elitr-minuting-corpus){: .btn} 
 
