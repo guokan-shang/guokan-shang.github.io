@@ -13,7 +13,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=EcBibP
   *TACL Journal*  
   [arXiv](https://arxiv.org/abs/2208.04163){:target="_blank"}
   [Code1](https://github.com/guokan-shang/ami-and-icsi-corpora){: .btn .btn--warning}{:target="_blank"}
-  [Code2](https://github.com/guokan-shang/elitr-minuting-corpus){: .btn .btn--inverse}{:target="_blank"}
+  [Code2](https://github.com/guokan-shang/elitr-minuting-corpus){: .btn .btn-primary}{:target="_blank"}
 
 - **DATScore: Evaluating Translation with Data Augmented Translations**  
   Moussa Kamal Eddine, **Guokan Shang**, Michalis Vazirgiannis  
