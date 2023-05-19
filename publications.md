@@ -30,7 +30,7 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   *ACL 2022*  
   [arXiv](https://arxiv.org/abs/2110.08559){: .btn}{:target="_blank"}
   [paper](https://aclanthology.org/2022.acl-long.93/){: .btn}{:target="_blank"}
-  [slides](/static/poster/icassp-22-surt-poster.pdf){: .btn}{:target="_blank"}
+  [slides](slides_ACL_2022_FrugalScore_Learning_Cheaper_Lighter_and_Faster_Evaluation_Metrics_for_Automatic_Text_Generation.pdf){: .btn}{:target="_blank"}
   [video](https://aclanthology.org/2022.acl-long.93.mp4){: .btn}{:target="_blank"}
   [code](https://github.com/moussaKam/FrugalScore){: .btn}{:target="_blank"}
 
