@@ -29,15 +29,16 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   Moussa Kamal Eddine, **Guokan Shang**, Antoine J-P Tixier, Michalis Vazirgiannis  
   *ACL 2022*  
   [arXiv](https://arxiv.org/abs/2110.08559){: .btn}{:target="_blank"}
-  [Paper](https://aclanthology.org/2022.acl-long.93/){: .btn}{:target="_blank"}
-  [Slides](/static/poster/icassp-22-surt-poster.pdf){: .btn}{:target="_blank"}
-  [Video](https://aclanthology.org/2022.acl-long.93.mp4){: .btn}{:target="_blank"}
+  [paper](https://aclanthology.org/2022.acl-long.93/){: .btn}{:target="_blank"}
+  [slides](/static/poster/icassp-22-surt-poster.pdf){: .btn}{:target="_blank"}
+  [video](https://aclanthology.org/2022.acl-long.93.mp4){: .btn}{:target="_blank"}
+  [code](https://github.com/moussaKam/FrugalScore){: .btn}{:target="_blank"}
 
 - **Spoken Language Understanding for Abstractive Meeting Summarization**  
   **Guokan Shang**  
   *Institut Polytechnique de Paris*  
   [Thesis](https://theses.hal.science/tel-03169877/){: .btn}{:target="_blank"}
-  [Slides](https://github.com/m-wiesner/nnet_pytorch/tree/conda_install/babel){: .btn}{:target="_blank"}
+  [Slides](slides_PhD_Thesis_Defense_Guokan_Shang_Spoken_Language_Understanding_for_Abstractive_Meeting_Summarization.pdf){: .btn}{:target="_blank"}
 
 **2020**
 
