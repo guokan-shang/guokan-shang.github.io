@@ -38,7 +38,7 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   **Guokan Shang**  
   *Institut Polytechnique de Paris*  
   [Thesis](https://theses.hal.science/tel-03169877/){: .btn}{:target="_blank"}
-  [Slides](slides_PhD_Thesis_Defense_Guokan_Shang_Spoken_Language_Understanding_for_Abstractive_Meeting_Summarization.pdf){: .btn}{:target="_blank"}
+  [Slides](slides_PhD_Thesis_Guokan_Shang_Spoken_Language_Understanding_for_Abstractive_Meeting_Summarization.pdf){: .btn}{:target="_blank"}
 
 **2020**
 
