@@ -68,7 +68,7 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   **Guokan Shang**, Wensi Ding, Zekun Zhang, Antoine Jean-Pierre Tixier, Polykarpos Meladianos, Michalis Vazirgiannis, Jean-Pierre Lorré  
   *ACL 2018*  
   [arXiv](https://arxiv.org/abs/1805.05271){: .btn}{:target="_blank"}
-  [Paper](https://aclanthology.org/P18-1062/){: .btn}{:target="_blank"}
-  [Poster](https://aclanthology.org/attachments/P18-1062.Poster.pdf){: .btn}{:target="_blank"}
-  [Code](https://bitbucket.org/dascim/acl2018_abssumm){: .btn}{:target="_blank"}
+  [paper](https://aclanthology.org/P18-1062/){: .btn}{:target="_blank"}
+  [poster](https://aclanthology.org/attachments/P18-1062.Poster.pdf){: .btn}{:target="_blank"}
+  [code](https://bitbucket.org/dascim/acl2018_abssumm){: .btn}{:target="_blank"}
   
