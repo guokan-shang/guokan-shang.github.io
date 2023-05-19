@@ -47,19 +47,20 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   *COLING 2020*  
   [arXiv](https://arxiv.org/abs/2004.02913){: .btn}{:target="_blank"}
   [paper](https://aclanthology.org/2020.coling-main.40/){: .btn}{:target="_blank"}
-  [slides](/static/report/doverlap.pdf){: .btn}{:target="_blank"}
+  [slides](slides_COLING_2020_Speaker_change_Aware_CRF_for_Dialogue_Act_Classification.pdf){: .btn}{:target="_blank"}
   [video](https://underline.io/lecture/6194-speaker-change-aware-crf-for-dialogue-act-classification){: .btn}{:target="_blank"}
   [code](https://bitbucket.org/guokan_shang/da-classification){: .btn}{:target="_blank"}
 
 **2019**
 
 - **Energy-based Self-attentive Learning of Abstractive Communities for Spoken Language Understanding**  
-  **Desh Raj**, Jesus Villalba, Daniel Povey, Sanjeev Khudanpur  
-  *ArXiv, 2020*  
+  **Guokan Shang**, Antoine Tixier, Michalis Vazirgiannis, Jean-Pierre Lorré  
+  *AACL-IJCNLP 2020*  
   [arXiv](https://arxiv.org/abs/1904.09491){: .btn}{:target="_blank"}
-  [Paper](https://aclanthology.org/2020.aacl-main.34/){: .btn}{:target="_blank"}
-  [Slides](/static/report/doverlap.pdf){: .btn}{:target="_blank"}
-  [Code](https://bitbucket.org/guokan_shang/abscomm){: .btn}{:target="_blank"}
+  [paper](https://aclanthology.org/2020.aacl-main.34/){: .btn}{:target="_blank"}
+  [slides](slides_AACL_IJCNLP_2020_Energy_based_Self_attentive_Learning_of_Abstractive_Communities_for_Spoken_Language_Understanding.pdf){: .btn}{:target="_blank"}
+  [video](https://youtu.be/HxQ1o2cFvDk){: .btn}{:target="_blank"}
+  [code](https://bitbucket.org/guokan_shang/abscomm){: .btn}{:target="_blank"}
 
 **2018**
 
