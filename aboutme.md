@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: ...
+subtitle: Hi, I'm Guokan, a research scientist in NLP
 ---
 
 Hi, my name is Guokan Shang (尚国侃) [[Curriculum Vitae](cv.pdf)], <br>
