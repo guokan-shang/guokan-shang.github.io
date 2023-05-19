@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Hi, I'm Guokan, a research scientist in NLP
+subtitle: Hi, I'm Guokan, an AI Research Scientist.
 ---
 
-Hi, my name is Guokan Shang (尚国侃) [[Curriculum Vitae](cv.pdf)], <br>
+My name is Guokan Shang (尚国侃 in Chinese), here is my [Curriculum Vitae](cv.pdf), <br>
 you can find my contact at the footer of this website.
 
-I am a research scientist at LINAGORA, a French leader in open-source software ecosystem. Within the [Labs team](https://labs.linagora.com), we are building AI-powered collaborative platforms with the aim of facilitating communication and personal interaction in a corporate environment.
+Currently, I am a Research Scientist at LINAGORA, a French leader in open-source software ecosystem. Within the [Labs team](https://labs.linagora.com){:target="_blank"}, we are building open-source conversational AI platform [LinTO](https://github.com/linto-ai){:target="_blank"} <br>
+Funded by French CIFRE Ph.D. fellowship and LINAGORA, I received my Ph.D. in 2021 from Ecole Polytechnique under the supervision of Prof. [Michalis Vazirgiannis](https://scholar.google.com/citations?user=aWGJYcMAAAAJ){:target="_blank"} at the team [DaSciM](http://www.lix.polytechnique.fr/dascim/){:target="_blank"}, with which I maintien a scitific collaboration till today.
 
-My research interests span all aspects of machine learning and its applications to natural language processing, more specifically Spoken Language Understanding / NLP for conversations / Conversational AI / Dialogue and Interactive Systems. My recent work mainly focused on challenging tasks such as abstractive meeting summarization and NLG evaluation.
+My research interests span all aspects of machine learning, and particularly its applications to natural language processing. My recent work mainly focused on challenging tasks such as meeting summarization and NLG evaluation.
 
-I received my Ph.D. in 2021 from Ecole Polytechnique and obtained a Master's degree in 2016 from Paris-Saclay University, both in Machine Learning. Before that, I obtained an Engineer's degree in 2015 from University of Technology of Troyes and a Bachelor's degree in 2013 from Harbin Institute of Technology, both in Computer Science.
+Previously, I obtained a Master's degree in 2016 from Paris-Saclay University, in Machine Learning. Before that, I obtained an Engineer's degree in 2015 from University of Technology of Troyes and a Bachelor's degree in 2013 from Harbin Institute of Technology, both in Computer Science.
 
 I am always looking for professionals with mutual interests to learn and share experiences, so feel free to contact me! 
