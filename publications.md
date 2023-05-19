@@ -10,18 +10,18 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
 
 - **Abstractive Meeting Summarization: A Survey**  
   Virgile Rennard, **Guokan Shang**, Julie Hunter, Michalis Vazirgiannis  
-  *TACL Journal*  
+  *TACL Journal*, co-first authorship
   [arXiv](https://arxiv.org/abs/2208.04163){: .btn}{:target="_blank"}
-  [Code1](https://github.com/guokan-shang/ami-and-icsi-corpora){: .btn}{:target="_blank"}
-  [Code2](https://github.com/guokan-shang/elitr-minuting-corpus){: .btn}{:target="_blank"}
+  [code1](https://github.com/guokan-shang/ami-and-icsi-corpora){: .btn}{:target="_blank"}
+  [code2](https://github.com/guokan-shang/elitr-minuting-corpus){: .btn}{:target="_blank"}
 
 - **DATScore: Evaluating Translation with Data Augmented Translations**  
   Moussa Kamal Eddine, **Guokan Shang**, Michalis Vazirgiannis  
   *EACL 2023 Findings*  
   [arXiv](https://arxiv.org/abs/2210.06576){: .btn}{:target="_blank"}
-  [Paper](https://aclanthology.org/2023.findings-eacl.69/){: .btn}{:target="_blank"}
-  [Slides](/static/ppt/icassp23_tsasr.pdf){: .btn}{:target="_blank"}
-  [Video](https://youtu.be/L2WnjQC8Pe0){: .btn}{:target="_blank"}
+  [paper](https://aclanthology.org/2023.findings-eacl.69/){: .btn}{:target="_blank"}
+  [slides](static/slides/_Slides___EACL_2023_Findings__DATScore__Evaluating_Translation_with_Data_Augmented_Translation.pdf){: .btn}{:target="_blank"}
+  [video](https://youtu.be/L2WnjQC8Pe0){: .btn}{:target="_blank"}
 
 **2021**
 
