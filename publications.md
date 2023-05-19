@@ -21,7 +21,7 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   [arXiv](https://arxiv.org/abs/2210.06576){: .btn}{:target="_blank"}
   [paper](https://aclanthology.org/2023.findings-eacl.69/){: .btn}{:target="_blank"}
   [slides](slides_EACL_2023_Findings_DATScore_Evaluating_Translation_with_Data_Augmented_Translation.pdf){: .btn}{:target="_blank"}
-  [video](https://youtu.be/L2WnjQC8Pe0){: .btn}{:target="_blank"}
+  [video](video_EACL_2023_Findings_DATScore_Evaluating_Translation_with_Data_Augmented_Translation.mp4){: .btn}{:target="_blank"}
 
 **2021**
 
