@@ -69,6 +69,8 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
   *ACL 2018*  
   [arXiv](https://arxiv.org/abs/1805.05271){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   [paper](https://aclanthology.org/P18-1062/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
+  [slides](slides_ACL_2018_Unsupervised_Abstractive_Meeting_Summarization_with_Multi_Sentence_Compression_and_Budgeted_Submodular_Maximization.pdf
+){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   [poster](https://aclanthology.org/attachments/P18-1062.Poster.pdf){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   [code](https://bitbucket.org/dascim/acl2018_abssumm){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   
