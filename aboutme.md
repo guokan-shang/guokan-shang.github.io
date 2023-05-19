@@ -4,7 +4,8 @@ title: About me
 subtitle: ...
 ---
 
-Hi, my name is Guokan Shang (尚国侃)[[Curriculum Vitae](cv.pdf)], you can find my contact at the footer of this website.
+Hi, my name is Guokan Shang (尚国侃)[[Curriculum Vitae](cv.pdf)], 
+you can find my contact at the footer of this website.
 
 I am a research scientist at LINAGORA, a French leader in open-source software ecosystem. Within the [Labs team](https://labs.linagora.com), we are building AI-powered collaborative platforms with the aim of facilitating communication and personal interaction in a corporate environment.
 
