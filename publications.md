@@ -11,8 +11,8 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
 - **Abstractive Meeting Summarization: A Survey**  
   Virgile Rennard, **Guokan Shang**, Julie Hunter, Michalis Vazirgiannis  
   *TACL Journal*, co-first authorship  
-  [arXiv](https://arxiv.org/abs/2208.04163){: .btn .btn-inverse .btn-primary}{:target="_blank"}
-  [code1](https://github.com/guokan-shang/ami-and-icsi-corpora){: .btn .btn-primary}{:target="_blank"}
+  [arXiv](https://arxiv.org/abs/2208.04163){: .btn .btn-link}{:target="_blank"}
+  [code1](https://github.com/guokan-shang/ami-and-icsi-corpora){: .btn .btn-outline-primary}{:target="_blank"}
   [code2](https://github.com/guokan-shang/elitr-minuting-corpus){: .btn .btn-primary}{:target="_blank"}
 
 - **DATScore: Evaluating Translation with Data Augmented Translations**  
