@@ -18,10 +18,10 @@ You can also browse my [Google Scholar](https://scholar.google.com/citations?use
 - **DATScore: Evaluating Translation with Data Augmented Translations**  
   Moussa Kamal Eddine, **Guokan Shang**, Michalis Vazirgiannis  
   *EACL 2023 Findings*  
-  [arXiv](https://arxiv.org/abs/2210.06576){: .btn}{:target="_blank"}
-  [paper](https://aclanthology.org/2023.findings-eacl.69/){: .btn}{:target="_blank"}
-  [slides](slides_EACL_2023_Findings_DATScore_Evaluating_Translation_with_Data_Augmented_Translation.pdf){: .btn}{:target="_blank"}
-  [video](video_EACL_2023_Findings_DATScore_Evaluating_Translation_with_Data_Augmented_Translation.mp4){: .btn}{:target="_blank"}
+  [arXiv](https://arxiv.org/abs/2210.06576){: .btn .btn-link}{:target="_blank"}
+  [paper](https://aclanthology.org/2023.findings-eacl.69/){: .btn .btn-link}{:target="_blank"}
+  [slides](slides_EACL_2023_Findings_DATScore_Evaluating_Translation_with_Data_Augmented_Translation.pdf){: .btn .btn-link}{:target="_blank"}
+  [video](video_EACL_2023_Findings_DATScore_Evaluating_Translation_with_Data_Augmented_Translation.mp4){: .btn .btn-link}{:target="_blank"}
 
 **2021**
 
