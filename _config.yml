@@ -21,9 +21,9 @@ author: Guokan Shang
 
 navbar-links:
   Blog: "/"
-  About Me | CV: "aboutme"
   Publications: "publications"
   Talks: "talks"
+  About Me | CV: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
