@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: You can also browse my Google Scholar profile (link in the footer).
+subtitle: You can also browse my Google Scholar (link in the footer).
 ---
 
 
