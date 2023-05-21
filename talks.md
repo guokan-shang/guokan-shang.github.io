@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Talks
-subtitle: ...
+subtitle: Here is a list of my talks and presentations.
 ---
 
-Here is a list of my talks and presentations:
 
 **2023**
 
