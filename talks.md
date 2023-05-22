@@ -13,5 +13,6 @@ subtitle: Here is a list of my talks and presentations.
   - Parameter-Efficient Fine-tuning (PEFT), Adapter-tuning, Prefix-tuning, Low-Rank Adaptation (LoRA)  
   - Quantization, 8-bit optimizer, LLM.int8(), GPTQ
   - ALiBi  
+  
   [Overleaf](https://www.overleaf.com/read/rvwwvvwmxvyc){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   
