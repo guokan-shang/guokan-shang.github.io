@@ -4,6 +4,7 @@ title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+share-img: /assets/img/avatar-icon.png
 tags: [test]
 comments: true
 ---
