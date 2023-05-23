@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Fake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
 share-img: /assets/img/avatar-icon.png
 show-avatar: false
