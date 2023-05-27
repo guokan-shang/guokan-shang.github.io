@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Sss
+      - name: jekyll-post-image-generator
         run: wget https://imagemagick.org/archive/binaries/magick && chmod +x magick && sudo mv magick /usr/bin/ && sudo apt install libfuse2 && wget 'https://fonts.google.com/download?family=Montserrat' -O font.zip && unzip font.zip -d /usr/share/fonts/googlefonts/ && rm font.zip
       - name: Checkout
         uses: actions/checkout@v3
