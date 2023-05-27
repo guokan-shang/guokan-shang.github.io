@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sss
-        run: wget https://imagemagick.org/archive/binaries/magick && chmod +x magick
+        run: wget https://imagemagick.org/archive/binaries/magick && chmod +x magick && sudo mv magick /usr/bin/
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Ruby
