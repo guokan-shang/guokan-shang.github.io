@@ -4,6 +4,7 @@ title: Why are current LLMs all decoder-only?
 subtitle: Each post also has a subtitle
 share-img: /assets/images/why-are-current-llms-all-decoder-only.jpg
 tags: [LLM, GPT, ChatGPT]
+readtime: true
 ---
 
 While most modern Large Language Models (LLMs) are based on the Transformer, notable architectural variations exist. There are encoder-only (BERT-like), decoder-only (GPT-like), and encoder-decoder (BART/T5-like) models, which are respectively considered adept at handling discriminative, generative, and both types of tasks. 
