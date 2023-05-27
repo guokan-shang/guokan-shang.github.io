@@ -1,17 +1,25 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/images/flake-it-till-you-make-it.jpg
-thumbnail-img: /assets/images/flake-it-till-you-make-it.jpg
-share-img: /assets/images/flake-it-till-you-make-it.jpg
-tags: [books, test]
+title: Why are current LLMs all decoder-only?
+subtitle: Each post also has a subtitle
+share-img: {% generated_image_path %}
+tags: [LLM, GPT, ChatGPT]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+While most modern Large Language Models (LLMs) are based on the Transformer, there exist notable variations in their architectural implementations. Specifically, there are encoder-only models (BERT-like), decoder-only models (GPT-like), and encoder-decoder models (BART/T5-like), which are respectively considered adept at handling discriminative, generative, and both types of tasks.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Recently, ChatGPT has emerged as a highly successful decoder-only model that has garnered widespread recognition and usage. Since then, new LLMs have been released almost on a daily basis, such as LLaMA, Pythia, MPT-7B, Cerebras-GPT, PaLM 2, Claude, and others. However, all these models are decoder-only.  
+It is obvious that we omit encoder-only from consideration since it is limited to producing the same number of tokens as it was fed as input, which is rarely used in NLG [Tamborrino et al., 2020]. 
+However, It appears that fewer institutions are interested in training an encoder-decoder model, with the exception of ChatGLM from Tsinghua University and FLAN-UL2 from Google, both of which were released this year. Additionally, OpenAI has exclusively focused on encoder-only models since the beginning.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+So, the big question is why has the decoder-only architecture become the mainstream choice for LLMs, over the encoder-decoder one? Is there something OpenAI knows that we don't? 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+### Experimental 
+
+The BigScience team had the same question at the point of architectural design for the BLOOM model {% scao2022bloom %}. In the work of {% cite wang2022language %}, they evaluated these two architectures, pre-trained with causal language modeling (CLM), prefix language modeling (PLM) {% liu2018generating %}, and masked language modeling (MLM) {% raffel2020exploring %} objectives, as well as the impact of multitask finetuning (now known as instruction-tuning). The study focuses on the **zero-shot generalization** abilities of these models, i.e., the performance of a single pre-trained (then instruction-tuned or not) model, tested on a wide variety of downstream tasks). The conclusions are: a decoder-only pre-trained with CLM performs best if evaluated immediately after pretraining, whereas when adding an instruction-tuning step, an encoder-decoder pre-trained with MLM performs best. Well, this is surely not the convenient answer we are waiting for.
+
+In the literature, more evidence can be found in contrast with this trend of decoder-only. Under the **transfer learning** setting, i.e. a pre-trained model is finetuned on a *single* downstream task for evaluation, Raffel et al. [2020] have shown that encoder-decoder models **significantly** outperform decoder-only LLMs. Sanh et al. [2021] proposed a multitask finetuned encoder-decoder LLM that outperforms decoder-only models on zero-shot generalization, despite being an order of magnitude smaller.
+
+It is worth noting that the aforementioned experiments draw certain conclusions by comparing encoder-decoder models with 11B parameters to decoder-only models with 4.8B parameters (is this a fair comparison?). 
+the same L + L encoder-decoder model will have approximately the same computational cost (step time) as an encoder with L layers.
+Furthermore, it raises questions regarding the applicability of these conclusions to larger language models with over 100 billion parameters. Thus, in conclusion, I would say there remains a need for a systematic evaluation of these two architectures.
