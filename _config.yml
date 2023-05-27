@@ -327,8 +327,7 @@ jekyll-post-image-generator:
   
   # The name of the font for the title text
   # default: "montserrat-Light" 
-  font: Times-Bold
-  
+  font: Montserrat
   
   # The color of the title text
   # default: "white"
