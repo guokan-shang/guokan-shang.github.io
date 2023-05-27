@@ -6,6 +6,8 @@
   {% endif %}
 {% endfor %}
 
+{% assign page.url = 'https://guokan-shang.github.io/' | append: page.url %}
+
 {% if any-share-links %}
 <section id = "social-share-section">
   <span class="sr-only">Share: </span>
