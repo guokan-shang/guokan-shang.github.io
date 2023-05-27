@@ -2,7 +2,7 @@
 layout: post
 title: Why are current LLMs all decoder-only?
 subtitle: Each post also has a subtitle
-thumbnail-img: /assets/images/why-are-current-llms-all-decoder-only.jpg
+share-img: /assets/images/why-are-current-llms-all-decoder-only.jpg
 tags: [LLM, GPT, ChatGPT]
 ---
 
