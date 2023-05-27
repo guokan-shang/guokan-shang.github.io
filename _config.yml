@@ -120,7 +120,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "large language models, natural language processing, machine learning, artificial intelligence"
+keywords: "large language models, natural language processing, machine learning, artificial intelligence, meeting summarization"
 
 ######################################
 # --- Colours / background image --- #
@@ -168,7 +168,7 @@ footer-hover-col: "#0085A1"
 #gtag: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+cloudflare_analytics: "81aa54c7947840e88def96d848c6174c"
 
 # Google Tag Manager ID
 #gtm: ""
