@@ -23,3 +23,5 @@ In the literature, more evidence can be found in contrast with this trend of dec
 It is worth noting that the aforementioned experiments draw certain conclusions by comparing encoder-decoder models with 11B parameters to decoder-only models with 4.8B parameters (is this a fair comparison?). 
 the same L + L encoder-decoder model will have approximately the same computational cost (step time) as an encoder with L layers.
 Furthermore, it raises questions regarding the applicability of these conclusions to larger language models with over 100 billion parameters. Thus, in conclusion, I would say there remains a need for a systematic evaluation of these two architectures.
+
+{% bibliography --cited %}
