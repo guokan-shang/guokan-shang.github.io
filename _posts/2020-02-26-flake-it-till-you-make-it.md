@@ -2,10 +2,11 @@
 layout: post
 title: Why are current LLMs all decoder-only?
 subtitle: Each post also has a subtitle
+share-img: {% generated_image_path %}
 tags: [LLM, GPT, ChatGPT]
 ---
 
-{% generated_image_path %}
+
 While most modern Large Language Models (LLMs) are based on the Transformer, there exist notable variations in their architectural implementations. Specifically, there are encoder-only models (BERT-like), decoder-only models (GPT-like), and encoder-decoder models (BART/T5-like), which are respectively considered adept at handling discriminative, generative, and both types of tasks.
 
 Recently, ChatGPT has emerged as a highly successful decoder-only model that has garnered widespread recognition and usage. Since then, new LLMs have been released almost on a daily basis, such as LLaMA, Pythia, MPT-7B, Cerebras-GPT, PaLM 2, Claude, and others. However, all these models are decoder-only.  
