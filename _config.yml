@@ -299,7 +299,37 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-scholar
+  - jekyll-post-image-generator
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+jekyll-post-image-generator:
+  # The base image to add text to
+  # default: "_background_image.png"
+  background_image: _background_image.png
+  
+  # The directory to write generated images to
+  # default: "assets/images/"
+  output_directory: assets/images/
+  
+  # The maximum point size for the title text
+  # default: 200
+  max_pointsize: 200
+  
+  # The minimum point size for the title text
+  # default: max_pointsize / 2
+  min_pointsize: 100
+  
+  # The maximum number of columns/characters before wrapping
+  # default: 30
+  max_columns_per_line: 30
+  
+  # The name of the font for the title text
+  # default: "montserrat-Light" 
+  font: montserrat-Light
+  
+  
+  # The color of the title text
+  # default: "white"
+  font_color: white
