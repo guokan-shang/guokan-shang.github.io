@@ -2,6 +2,7 @@
 layout: page
 title: Talks
 subtitle: Here is a list of my talks and presentations.
+share-title: Guokan Shang - Talks
 ---
 
 **2023**
