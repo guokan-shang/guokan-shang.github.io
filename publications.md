@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 subtitle: You can also browse my Google Scholar (link in the footer).
+share-title: Guokan Shang - Publications
 ---
 
 
