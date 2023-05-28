@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Guokan, an AI Research Scientist.
+share-title: Guokan Shang - About me
 ---
 
 My name is Guokan Shang (尚国侃 in Chinese), here is my [Curriculum Vitae](CV_Guokan_Shang.pdf), you can find my contact at the footer of this website.
