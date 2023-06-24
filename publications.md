@@ -5,7 +5,9 @@ subtitle: You can also browse my Google Scholar (link in the footer).
 share-title: Guokan Shang - Publications
 ---
 
+**2023**
 
+- **Two long papers were submitted to EMNLP 2023.**
 
 **2022**
 
