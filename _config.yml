@@ -20,7 +20,7 @@ author: Guokan Shang
 ###############################################
 
 navbar-links:
-  Blog: "/"
+  Blog: "blog"
   Talks: "talks"
   Publications: "publications"
   About Me | CV: "aboutme"
