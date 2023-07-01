@@ -23,7 +23,7 @@ navbar-links:
   Blog: "blog"
   Talks: "talks"
   Publications: "publications"
-  About Me | CV: "aboutme"
+  About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
