@@ -167,10 +167,10 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-MP4CCPY322"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-cloudflare_analytics: "81aa54c7947840e88def96d848c6174c"
+#cloudflare_analytics: "81aa54c7947840e88def96d848c6174c"
 
 # Google Tag Manager ID
 #gtm: ""
