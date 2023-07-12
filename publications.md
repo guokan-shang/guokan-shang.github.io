@@ -40,7 +40,7 @@ share-title: Guokan Shang - Publications
 - **Spoken Language Understanding for Abstractive Meeting Summarization**  
   **Guokan Shang**  
   *Institut Polytechnique de Paris*  
-  [thesis](https://theses.hal.science/tel-03169877/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
+  [thesis](https://theses.hal.science/tel-03169877/en){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   [slides](slides_Spoken_Language_Understanding_for_Abstractive_Meeting_Summarization.pdf){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
 
 **2020**
