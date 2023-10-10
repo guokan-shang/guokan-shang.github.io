@@ -7,7 +7,7 @@ share-title: Guokan Shang - Publications
 
 **2023**
 
-- **Two long papers were submitted to EMNLP 2023.**
+- **Two long papers were accepted to the Findings of EMNLP 2023.**
 
 **2022**
 
