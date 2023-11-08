@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Talks
-subtitle: Here is a list of my talks and presentations.
-share-title: Guokan Shang - Talks
+title: Presentations
+subtitle: Here is a list of my presentation and teaching slides.
+share-title: Guokan Shang - Presentations
 ---
 
 - **Large Language Models: from Transformer to ChatGPT**   
@@ -11,7 +11,7 @@ share-title: Guokan Shang - Talks
   - Transformer, BERT, T5, GPT, Scaling law
   - InstructGPT / ChatGPT = GPT + Instruction-tuning + Alignment-tuning (RLHF: Reinforcement Learning from Human Feedback)
   - Prompt engineering: Chain-of-Thought
-  - Parameter-Efficient Fine-tuning: Adapter-tuning, Prefix-tuning, Low-Rank Adaptation (LoRA)  
+  - Parameter-Efficient Fine-tuning: Adapter-tuning, Prefix-tuning, Low-Rank Adaptation (LoRA)
   - Quantization: bfloat16, 8-bit optimizer, 4-bit QLoRA
   - Transformer upgrade: Rotary Position Embedding (RoPE), Attention with Linear Biases (ALiBi), Grouped-Query Attention (GQA)
   - Open pre-training, instruction-tuning, alignment-tuning data, Data augmentation (self-instruct)
