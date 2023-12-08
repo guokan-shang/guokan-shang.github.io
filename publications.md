@@ -8,13 +8,14 @@ share-title: Guokan Shang - Publications
 **2023**
 
 - **Automatic Analysis of Substantiation in Scientific Peer Reviews**  
-  Yanzhu Guo, **Guokan Shang**, Virgile Rennard, Michalis Vazirgiannis, Chloé Clavel 
-  *EACL 2023 Findings*  
+  Yanzhu Guo, **Guokan Shang**, Virgile Rennard, Michalis Vazirgiannis, Chloé Clavel  
+  *EMNLP 2023 Findings*  
   [arXiv](https://arxiv.org/abs/2311.11967){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   [paper](https://aclanthology.org/2023.findings-emnlp.684/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
 
 - **FREDSum: A Dialogue Summarization Corpus for French Political Debates**
   Virgile Rennard, **Guokan Shang**, Damien Grari, Julie Hunter, Michalis Vazirgiannis
+  *EMNLP 2023 Findings*
   [paper](https://aclanthology.org/2023.findings-emnlp.280/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   
 **2022**
