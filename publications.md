@@ -13,7 +13,7 @@ share-title: Guokan Shang - Publications
   [arXiv](https://arxiv.org/abs/2311.11967){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   [paper](https://aclanthology.org/2023.findings-emnlp.684/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
 
-- **FREDSum: A Dialogue Summarization Corpus for French Political Debates**
+- **FREDSum: A Dialogue Summarization Corpus for French Political Debates**  
   Virgile Rennard, **Guokan Shang**, Damien Grari, Julie Hunter, Michalis Vazirgiannis
   *EMNLP 2023 Findings*  
   [paper](https://aclanthology.org/2023.findings-emnlp.280/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
