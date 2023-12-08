@@ -15,7 +15,7 @@ share-title: Guokan Shang - Publications
 
 - **FREDSum: A Dialogue Summarization Corpus for French Political Debates**
   Virgile Rennard, **Guokan Shang**, Damien Grari, Julie Hunter, Michalis Vazirgiannis
-  *EMNLP 2023 Findings*
+  *EMNLP 2023 Findings*  
   [paper](https://aclanthology.org/2023.findings-emnlp.280/){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   
 **2022**
