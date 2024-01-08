@@ -297,6 +297,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+url: "https://shang.tech"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
