@@ -8,7 +8,6 @@ share-title: Guokan Shang - Presentations
 - **Large Language Models: from Transformer to ChatGPT**  
   An overview of diverse topics related to LLMs.  
   [slides](slides_Large_Language_Models_from_Transformer_to_ChatGPT.pdf){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
-  [overleaf](https://www.overleaf.com/read/rvwwvvwmxvyc){: .btn .btn-outline-primary .btn-sm}{:target="_blank"}
   - Transformer, BERT, T5, GPT, Scaling law
   - InstructGPT / ChatGPT = GPT + Instruction-tuning + Alignment-tuning (RLHF: Reinforcement Learning from Human Feedback)
   - Prompt engineering: Chain-of-Thought
