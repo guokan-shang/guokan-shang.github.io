@@ -32,8 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: jekyll-post-image-generator
-        run: wget https://imagemagick.org/archive/binaries/magick && chmod +x magick && sudo mv magick /usr/bin/ && sudo apt install libfuse2 && wget 'https://fonts.google.com/download?family=Montserrat' && unzip Montserrat.zip -d /usr/share/fonts/googlefonts/ && rm Montserrat.zip
-      - name: Checkout
+        run: wget https://imagemagick.org/archive/binaries/magick && chmod +x magick && sudo mv magick /usr/bin/ && sudo apt install libfuse2
         uses: actions/checkout@v3
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
