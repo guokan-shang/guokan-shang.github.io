@@ -33,6 +33,7 @@ jobs:
     steps:
       - name: jekyll-post-image-generator
         run: wget https://imagemagick.org/archive/binaries/magick && chmod +x magick && sudo mv magick /usr/bin/ && sudo apt install libfuse2
+      - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
